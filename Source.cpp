@@ -17,6 +17,6 @@ int main()
 	int l, r;
 	cin >> l >> r;
 	SangNTtrendoan(l, r);
-	cout <<"Hehe";
+	cout <<"Hehe1";
 	return 1;
 }
