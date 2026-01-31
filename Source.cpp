@@ -17,6 +17,6 @@ int main()
 	int l, r;
 	cin >> l >> r;
 	SangNTtrendoan(l, r);
-	cout <<"Webhook trigger";
+	cout <<"Hello";
 	return 1;
 }
